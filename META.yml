@@ -9,7 +9,7 @@ configure_requires:
   CPAN::Meta::Prereqs: 0
   Module::Build: 0.38
 dynamic_config: 0
-generated_by: 'Minilla/v0.6.5, CPAN::Meta::Converter version 2.132510'
+generated_by: 'Minilla/v0.6.3, CPAN::Meta::Converter version 2.132140'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -27,11 +27,11 @@ no_index:
 provides:
   Dispatcher::Small:
     file: lib/Dispatcher/Small.pm
-    version: 0.01
+    version: 0.02
 requires:
   perl: 5.010
 resources:
   bugtracker: https://github.com/ytnobody/Dispatcher-Small/issues
   homepage: https://github.com/ytnobody/Dispatcher-Small
   repository: git://github.com/ytnobody/Dispatcher-Small.git
-version: 0.01
+version: 0.02
